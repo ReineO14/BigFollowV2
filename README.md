@@ -17,11 +17,10 @@ Derrière ce projet, l'objectif est de mettre en pratique la méthode de gestion
 
 Membre | Rôle
 --- | ---
-Guillaume AMOUZOU | Responsable Technique
-Audrey BALLENGHIEN | Chef de projet
-Charifa EL ALAOUI MOSTAFA | Responsable communication/marketing
-Mohammed Amine EL OUFIR | Responsable Qualité
-Romain HUNAULT | Responsable métier
+Laureen LOISON | Responsable Technique
+Reine OUILIDANA | Coordinateur de projet
+Khira BOUKHIAR | Responsable Qualité/marketing
+Samia MOUATTA | Responsable fonctionnel
 
 ## 2. Environnement de développement
 
@@ -30,8 +29,8 @@ L'application est développée pour les téléphones Android. Le développement 
 
 ## 3. Liens
 
-* [Google Drive](https://drive.google.com/drive/folders/0B9w0H-NLpQyebkpoV0J0Rmt2eUk)
-* [Trello](https://trello.com/b/IZpxAou7/projet-big-follow)
+* [Google Drive](https://drive.google.com/drive/folders/1ehJM4Mg5hiS-OGeWW2jdZpiNZj_qjaWj)
+* [Trello](https://trello.com/b/1E2pQUYX/projet-bigfollow)
 
 ## 4. Bugs
 
